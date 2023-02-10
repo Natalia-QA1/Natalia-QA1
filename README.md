@@ -2,7 +2,7 @@
 
 About me
 
-### Languages and tools
+### Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&LogoColor=47C5FB)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=TestRail&LogoColor=47C5FB)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&LogoColor=47C5FB)
