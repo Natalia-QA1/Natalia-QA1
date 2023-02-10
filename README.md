@@ -17,3 +17,5 @@ Test documentation
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&LogoColor=47C5FB)](https://www.linkedin.com/in/natalia-ananeva/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&LogoColor=47C5FB)](http://t.me/natalia_ananeva)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natalia-QA1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
