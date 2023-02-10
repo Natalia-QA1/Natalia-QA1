@@ -7,7 +7,7 @@ About me
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=TestRail&LogoColor=47C5FB)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&LogoColor=47C5FB)
 ![SoapUI](https://img.shields.io/badge/-SoapUI-090909?style=for-the-badge&logo=SoapUI&LogoColor=47C5FB)
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=TAndroid Studio&LogoColor=47C5FB)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio&LogoColor=47C5FB)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&LogoColor=47C5FB)
 ![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=Confluence&LogoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&LogoColor=47C5FB)
