@@ -14,4 +14,6 @@ About me
 
 Test documentation
 
-Follow me
+### Follow me
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&LogoColor=47C5FB)](https://www.linkedin.com/in/natalia-ananeva/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&LogoColor=47C5FB)](http://t.me/natalia_ananeva)
