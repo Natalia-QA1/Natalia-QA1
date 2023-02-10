@@ -3,7 +3,7 @@
 About me
 
 ### Languages and tools
-![Jira](https://img.shields.io/badge/-JIRA-090909>?style=for-the-badge&logo=Jira&Color=47C5FB)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&LogoColor=47C5FB)
 
 Test documentation
 
