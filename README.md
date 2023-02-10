@@ -2,7 +2,8 @@
 
 About me
 
-Languages and tools
+### Languages and tools
+![Jira](https://img.shields.io/badge/-JIRA-090909>?style=for-the-badge&logo=Jira&Color=47C5FB)
 
 Test documentation
 
