@@ -14,7 +14,8 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=Confluence&LogoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&LogoColor=47C5FB)
 
-Test documentation
+### Test documentation
+- [Checklists](https://github.com/Natalia-QA1/Checklists.git)
 
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&LogoColor=47C5FB)](https://www.linkedin.com/in/natalia-ananeva/)
