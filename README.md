@@ -16,6 +16,7 @@
 
 ### Test documentation
 - [Checklists](https://github.com/Natalia-QA1/Checklists.git)
+- [TestCases](https://github.com/Natalia-QA1/Test-cases.git)
 
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&LogoColor=47C5FB)](https://www.linkedin.com/in/natalia-ananeva/)
