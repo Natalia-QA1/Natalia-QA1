@@ -2,7 +2,8 @@
 
 ## As a QA engineer, I am highly motivated and driven to deliver high-quality software that meets the needs of users. I am constantly seeking new opportunities to expand my knowledge and skills in the field, and I truly enjoy the process of studying and learning.
 
-###CV
+### CV
+ - [CV](https://github.com/Natalia-QA1/CV.git)
 
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&LogoColor=47C5FB)
