@@ -20,6 +20,9 @@
 - [TestCases](https://github.com/Natalia-QA1/Test-cases.git)
 - [DefectReports](https://github.com/Natalia-QA1/DefectReports.git)
 
+### Personal project 
+- [HTML/CSS](https://github.com/Natalia-QA1/CSS-HTML-project.git)
+
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&LogoColor=47C5FB)](https://www.linkedin.com/in/natalia-ananeva/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&LogoColor=47C5FB)](http://t.me/natalia_ananeva)
