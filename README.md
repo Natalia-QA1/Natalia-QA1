@@ -22,7 +22,7 @@
 - [DefectReports](https://github.com/Natalia-QA1/DefectReports.git)
 
 ### Personal project 
-Description
+Description:
 The project entails the creation of a website designed to serve as a business card for a dentist, drawing upon my previous experience in this domain. The website was developed using HTML and CSS as the foundational technologies.
 
 - [HTML/CSS](https://github.com/Natalia-QA1/CSS-HTML-project.git)
