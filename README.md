@@ -26,6 +26,7 @@ Description:
 The project entails the creation of a website designed to serve as a business card for a dentist, drawing upon my previous experience in this domain. The website was developed using HTML and CSS as the foundational technologies.
 
 - [HTML/CSS](https://github.com/Natalia-QA1/CSS-HTML-project.git)
+- [SQL queries](https://github.com/Natalia-QA1/SQL-queries.git)
 
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&LogoColor=47C5FB)](https://www.linkedin.com/in/natalia-ananeva/)
