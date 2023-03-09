@@ -25,6 +25,7 @@
 Description:
 The project entails the creation of a website designed to serve as a business card for a dentist, drawing upon my previous experience in this domain. The website was developed using HTML and CSS as the foundational technologies.
 
+- [Mockup](https://github.com/Natalia-QA1/CSS-HTML-project/blob/173f511a79b08d565d71deaa0836a15fdcf0fc75/My%20project%20Mockup.pdf)
 - [HTML/CSS](https://github.com/Natalia-QA1/CSS-HTML-project.git)
 - [SQL queries](https://github.com/Natalia-QA1/SQL-queries.git)
 
