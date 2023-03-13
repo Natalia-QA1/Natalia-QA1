@@ -15,6 +15,7 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=Confluence&LogoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&LogoColor=47C5FB)
 ![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=Bash&LogoColor=47C5FB)
+![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium&LogoColor=47C5FB)
 
 ### Test documentation
 - [Checklists](https://github.com/Natalia-QA1/Checklists.git)
