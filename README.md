@@ -21,6 +21,9 @@
 - [TestCases](https://github.com/Natalia-QA1/Test-cases.git)
 - [DefectReports](https://github.com/Natalia-QA1/DefectReports.git)
 
+### Automation tests
+- [Selenium](https://github.com/Natalia-QA1/Selenium.git)
+
 ### Personal project 
 Description:
 The project entails the creation of a website designed to serve as a business card for a dentist, drawing upon my previous experience in this domain. The website was developed using HTML and CSS as the foundational technologies.
