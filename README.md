@@ -5,6 +5,9 @@
 ### CV
  - [CV](https://github.com/Natalia-QA1/CV.git)
 
+
+### QA ENGINEERING
+
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&LogoColor=47C5FB)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=TestRail&LogoColor=47C5FB)
