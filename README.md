@@ -1,6 +1,6 @@
 [![Header](https://github.com/Natalia-QA1/Natalia-QA1/blob/main/Assets/ava.jpg)](https://www.linkedin.com/in/natalia-ananeva/)
 
-## As a QA engineer, I am highly motivated and driven to deliver high-quality software that meets the needs of users. I am constantly seeking new opportunities to expand my knowledge and skills in the field, and I truly enjoy the process of studying and learning.
+## 
 
 ### CV
  - [CV](https://github.com/Natalia-QA1/CV.git)
