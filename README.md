@@ -5,6 +5,18 @@
 ### CV
  - [CV](https://github.com/Natalia-QA1/CV.git)
 
+### DATA ENGINEERING
+
+### Tools and Skills
+![dbt](https://img.shields.io/badge/-dbt-090909?style=for-the-badge&logo=dbt&LogoColor=47C5FB)
+![PowerBI](https://img.shields.io/badge/-PowerBI-090909?style=for-the-badge&logo=PowerBI&LogoColor=47C5FB)
+![GCP](https://img.shields.io/badge/-GCP-090909?style=for-the-badge&logo=GCP&LogoColor=47C5FB)
+![AWS](https://img.shields.io/badge/-AWS-090909?style=for-the-badge&logo=AWS&LogoColor=47C5FB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&LogoColor=47C5FB)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&LogoColor=47C5FB)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&LogoColor=47C5FB)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&LogoColor=47C5FB)
+![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=Bash&LogoColor=47C5FB)
 
 ### QA ENGINEERING
 
