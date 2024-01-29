@@ -5,7 +5,7 @@
 ### CV
  - [CV](https://github.com/Natalia-QA1/CV.git)
 
-### DATA ENGINEERING
+## DATA ENGINEERING
 
 ### Tools and Skills
 ![dbt](https://img.shields.io/badge/-dbt-090909?style=for-the-badge&logo=dbt&LogoColor=47C5FB)
@@ -21,7 +21,10 @@
 ### Data Cleaning
 - [DataCleaning](https://github.com/Natalia-QA1/Data-Cleaning.git)
 
-### QA ENGINEERING
+### DWH Project
+- [DWH-project](https://github.com/Natalia-QA1/DWH-PROJECT-esb_hypermarket.git)
+
+## QA ENGINEERING
 
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&LogoColor=47C5FB)
